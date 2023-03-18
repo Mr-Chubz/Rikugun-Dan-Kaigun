@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Weapon Manufactory",
+        "hurryCostModifier": 25,
+        "production": 2
+        "uniques": ["[+1 Science, +2 Production] for every [3] population [in this city]","Provides [3] [Charges]"],
+        "requiredTech": "Rocketry"
+        "requiredResource": "Copper",
+  },
+]
