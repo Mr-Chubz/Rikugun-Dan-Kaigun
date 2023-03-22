@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Battlecarrier",
-		"unitType": "Naval Ranged",
+		"unitType": "Naval Siege",
 		"movement": 5,
 		"strength": 85,
 		"rangedStrength": 85,
@@ -57,7 +57,7 @@
 	},
 	{
 		"name": "Rocket Infantry",
-		"unitType": "Gunpowder",
+		"unitType": "Anti Cavalry",
 		"movement": 2,
 		"interceptRange": 2,
 		"strength": 60,
@@ -70,7 +70,7 @@
 		"attackSound": "missile"
 	},
 	{
-		"name": "Flaktank",
+		"name": "Flak Tank",
 		"unitType": "Light Cavalry",
 		"movement": 4,
 		"interceptRange": 1,
